@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bharath-bit
-- 👀 I’m interested in developing new things and learning some things from the same.
+- 👀 I’m interested in developing new things.
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on .Net web applications,IOT workshops.
+- 💞️ I’m looking to collaborate on .Net web applications,IOT .
 - 📫 You can reach me @ bharathkalmani3@gmail.com
 
 <!---
