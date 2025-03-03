@@ -1,8 +1,8 @@
--👋 Hi, I'm @bharath-bit, a seasoned C# .NET developer with 3 years of experience.
+-👋 Hi, I'm @bharath-bit, a seasoned C# .NET developer with 4 years of experience.
 - 👀 I'm passionate about crafting innovative solutions.
 - 🌱 Currently, I'm honing my skills in C#.
 - 💞️ I'm eager to collaborate on .NET web applications and IoT projects.
-- 📫 You can connect with me at bharathkalmani3@gmail.com
+- 📫 You can connect with me at bharathkalmani@outlook.com
 
 <!---
 bharath-bit/bharath-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
